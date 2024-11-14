@@ -7,6 +7,7 @@ fun main() {
         println("YES")
     }
     else
+
     {
         println("NO")
     }
